@@ -1,10 +1,10 @@
 module github.com/hslatman/caddy-crowdsec-bouncer
 
-go 1.27.1
+go 1.26.1
 
 require (
 	github.com/caddyserver/caddy/v2 v2.11.9
-	github.com/crowdsecurity/crowdsec v1.8.2
+	github.com/crowdsecurity/crowdsec v1.8.1
 	github.com/crowdsecurity/go-cs-lib v0.0.25
 	github.com/google/go-cmp v0.7.0
 	github.com/google/uuid v1.6.0
